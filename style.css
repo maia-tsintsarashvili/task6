@@ -1,0 +1,107 @@
+header
+{
+    display: flex;
+}
+
+nav
+{
+   color: #37393F;
+    font-size: 18px;
+    font-weight: 400; 
+    
+}
+
+
+
+ul
+{
+   display: flex;  
+
+
+}
+
+.consult
+{
+    padding: 21px 35px 22px 35px;
+    color: #FFF;
+text-align: center;
+    background-color: #6B77E5;
+}
+.title{
+    
+    text-align: center;
+}
+
+
+
+main
+{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+main{
+    display: flex;
+}
+article
+{
+    background-color: #F4F4F4;
+margin-right: 31px;
+
+}
+.name
+{
+   color: #37393F;;
+font-size: 25px;
+font-weight: 600;
+}
+
+.text
+{
+   color: #7D7D7D;
+}
+
+.test
+{
+    color: #6B77E5;
+
+}
+
+.video
+{
+    text-align: center;
+ background: rgba(64, 221, 182, 0.75);
+height: 557px;
+
+}
+
+.presentation
+{
+    color: #37393F;
+font-size: 40px;
+font-weight: 700;
+}
+
+.text-1
+{
+font-size: 18px;
+}
+
+footer
+{
+    text-align: center;
+}
+.expert
+{
+   font-size: 40px;
+   font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
